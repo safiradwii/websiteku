@@ -13,7 +13,7 @@ Website ini dibuat sebagai latihan dasar pembuatan halaman web menggunakan HTML 
 
 ## 🌐 Live Preview
 Klik link berikut untuk melihat langsung:
-[🔗 Lihat hasil websitenya di GitHub Pages](https://safiradwii.github.io/portofolio-safira/)
+[🔗 Lihat hasil websitenya di GitHub Pages](https://safiradwii.github.io/websiteku)
 
 ## 📸 Screenshot
 > (Tambahkan screenshot nanti jika kamu sudah upload gambarnya)
